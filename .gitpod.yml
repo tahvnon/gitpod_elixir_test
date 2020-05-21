@@ -1,0 +1,7 @@
+# from https://github.com/jgchristopher/rumbl/blob/master/.gitpod.yml
+image:
+  file: .gitpod.dockerfile
+
+vscode:
+  extensions:
+    - JakeBecker.elixir-ls@0.2.25:X1tqg5Hmluq055QJpf0/7A==
